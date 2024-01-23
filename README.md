@@ -1,5 +1,7 @@
 # PAL WORLD
 
+## 處理好的 json 檔案:
+- storage/{pal,pal_en}.json
 
 ## dataset - 詞綴
 
