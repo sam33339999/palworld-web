@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "001",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Lamball-1.webp",
+    "name": "Lamball",
+    "element": "Neutral",
+    "skill": "Fluffy Shield",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Wool", "Lamball Mutton"]
+  },
+  {
+    "id": "002",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Cattiva.webp",
+    "name": "Cattiva",
+    "element": "Neutral",
+    "skill": "Cat Helper",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" },
+      { "sk": "Mining", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" }
+    ],
+    "drops": ["Red Berries"]
+  },
+  {
+    "id": "003",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Chikipi.webp",
+    "name": "Chikipi",
+    "element": "Neutral",
+    "skill": "Egg Layer",
+    "lifeSkills": [
+      { "sk": "Gathering", "lv": "1" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Egg", "Chikipi Poultry"]
+  },
+  {
+    "id": "004",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Lifmunk.webp",
+    "name": "Lifmunk",
+    "element": "Grass",
+    "skill": "Lifmunk Recoil",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "1" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Lumbering", "lv": "1" },
+      { "sk": "Medicine Production", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Berry Seeds", "Low-grade Medical Supplies"]
+  },
+  {
+    "id": "005",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Foxparks.webp",
+    "name": "Foxparks",
+    "element": "Fire ",
+    "skill": "Huggy Fire",
+    "lifeSkills": [{ "sk": "Kindling", "lv": "1" }],
+    "drops": ["Leather", "Flame Organ"]
+  },
+  {
+    "id": "006",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Fuack.webp",
+    "name": "Fuack",
+    "element": "Water",
+    "skill": "Surfing Slam",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Watering", "lv": "1" }
+    ],
+    "drops": ["Leather", "Pal Fluids"]
+  },
+  {
+    "id": "007",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Sparkit.webp",
+    "name": "Sparkit",
+    "element": "Electric",
+    "skill": "Static Electricity",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Generating Electricity", "lv": "1" }
+    ],
+    "drops": ["Electric Organ"]
+  },
+  {
+    "id": "008",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Tanzee.webp",
+    "name": "Tanzee",
+    "element": "Grass",
+    "skill": "Cheery Rifle",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "1" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Lumbering", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Mushroom"]
+  },
+  {
+    "id": "009",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Rooby.webp",
+    "name": "Rooby",
+    "element": "Fire ",
+    "skill": "Tiny Spark",
+    "lifeSkills": [{ "sk": "Kindling", "lv": "1" }],
+    "drops": ["Flame Organ", "Leather"]
+  },
+  {
+    "id": "010",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Pengullet.webp",
+    "name": "Pengullet",
+    "element": "Wate/Ice",
+    "skill": "Pengullet Cannon",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Watering", "lv": "1" },
+      { "sk": "Cooling", "lv": "1" }
+    ],
+    "drops": ["Ice Organ", "Pal Fluids"]
+  },
+  {
+    "id": "011",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Penking.webp",
+    "name": "Penking",
+    "element": "Water/Ice",
+    "skill": "Brave Sailor",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Watering", "lv": "2" },
+      { "sk": "Mining", "lv": "2" },
+      { "sk": "Cooling", "lv": "2" }
+    ],
+    "drops": ["Ice Organ", "Penking Plume"]
+  },
+  {
+    "id": "012",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Jolthog.webp",
+    "name": "Jolthog",
+    "element": "Electric",
+    "skill": "Jolt Bomb",
+    "lifeSkills": [{ "sk": "Generating Electricity", "lv": "1" }],
+    "drops": ["Electric Organ"]
+  },
+  {
+    "id": "012b",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Jolthog-Cryst.webp",
+    "name": "Jolthog Cryst",
+    "element": "Ice",
+    "skill": "Cold Bomb",
+    "lifeSkills": [{ "sk": "Cooling", "lv": "1" }],
+    "drops": ["Ice Organ"]
+  },
+  {
+    "id": "013",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Gumoss.webp",
+    "name": "Gumoss",
+    "element": "Grass",
+    "skill": "Logging Assistance",
+    "lifeSkills": [{ "sk": "Planting", "lv": "1" }],
+    "drops": ["Berry Seeds", "Gumoss Leaf"]
+  },
+  {
+    "id": "014",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Vixy.webp",
+    "name": "Vixy",
+    "element": "Neutral",
+    "skill": "Dig Here!",
+    "lifeSkills": [
+      { "sk": "Gathering", "lv": "1" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Leather", "Bone"]
+  },
+  {
+    "id": "015",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Hoocrates.webp",
+    "name": "Hoocrates",
+    "element": "Dark",
+    "skill": "Dark Knowledge",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "1" }],
+    "drops": ["Fiber", "High-grade Technical Manual"]
+  },
+  {
+    "id": "016",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Teafant.webp",
+    "name": "Teafant",
+    "element": "Water",
+    "skill": "Soothing Shower",
+    "lifeSkills": [{ "sk": "Watering", "lv": "1" }],
+    "drops": ["Pal Fluids"]
+  },
+  {
+    "id": "017",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Depresso.webp",
+    "name": "Depresso",
+    "element": "Dark",
+    "skill": "Caffeine Inoculation",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Mining", "lv": "1" }
+    ],
+    "drops": ["Venom Gland"]
+  },
+  {
+    "id": "018",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Cremis.webp",
+    "name": "Cremis",
+    "element": "Neutral",
+    "skill": "Fluffy Wool",
+    "lifeSkills": [
+      { "sk": "Gathering", "lv": "1" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Wool"]
+  },
+  {
+    "id": "019",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Daedream.webp",
+    "name": "Daedream",
+    "element": "Dark",
+    "skill": "Dream Chaser",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Venom Gland", "Small Pal Soul"]
+  },
+  {
+    "id": "020",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Rushoar.webp",
+    "name": "Rushoar",
+    "element": "Ground ",
+    "skill": "Hard Head",
+    "lifeSkills": [{ "sk": "Mining", "lv": "1" }],
+    "drops": ["Rushoar Pork", "Leather", "Bone"]
+  },
+  {
+    "id": "021",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Nox.webp",
+    "name": "Nox",
+    "element": "Dark",
+    "skill": "Kuudere",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "1" }],
+    "drops": ["Leather", "Small Pal Soul"]
+  },
+  {
+    "id": "022",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Fuddler.webp",
+    "name": "Fuddler",
+    "element": "Ground ",
+    "skill": "Ore Detector",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Mining", "lv": "1" }
+    ],
+    "drops": ["Leather"]
+  },
+  {
+    "id": "023",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Killamari.webp",
+    "name": "Killamari",
+    "element": "Dark",
+    "skill": "Fried Squid",
+    "lifeSkills": [
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Venom Gland"]
+  },
+  {
+    "id": "024",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Mau.webp",
+    "name": "Mau",
+    "element": "Dark",
+    "skill": "Gold Digger",
+    "lifeSkills": [{ "sk": "Farming", "lv": "1" }],
+    "drops": ["Gold Coin"]
+  },
+  {
+    "id": "024b",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Mau-Cryst.webp",
+    "name": "Mau Cryst",
+    "element": "Ice",
+    "skill": "Gold Digger",
+    "lifeSkills": [
+      { "sk": "Cooling", "lv": "1" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Ice Organ", "Sapphire"]
+  },
+  {
+    "id": "025",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Celaray.webp",
+    "name": "Celaray",
+    "element": "Water",
+    "skill": "Zephyr Glider",
+    "lifeSkills": [
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Watering", "lv": "1" }
+    ],
+    "drops": ["Pal Fluids"]
+  },
+  {
+    "id": "026",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Direhowl.webp",
+    "name": "Direhowl",
+    "element": "Neutral",
+    "skill": "Direhowl Rider",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "1" }],
+    "drops": ["Leather", "Ruby", "Gold Coin"]
+  },
+  {
+    "id": "027",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Tocotoco.webp",
+    "name": "Tocotoco",
+    "element": "Neutral",
+    "skill": "Eggbomb Launcher",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "1" }],
+    "drops": ["Gunpowder", "Tocotoco Feather"]
+  },
+  {
+    "id": "028",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Flopie.webp",
+    "name": "Flopie",
+    "element": "Grass",
+    "skill": "Helper Bunny",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "1" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Medicine Production", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Low-grade Medical Supplies", "Wheat Seeds"]
+  },
+  {
+    "id": "029",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Mozzarina.webp",
+    "name": "Mozzarina",
+    "element": "Neutral",
+    "skill": "Milk Maker",
+    "lifeSkills": [{ "sk": "Farming", "lv": "1" }],
+    "drops": ["Mozzarina Meat", "Milk"]
+  },
+  {
+    "id": "030",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Bristla.webp",
+    "name": "Bristla",
+    "element": "Grass",
+    "skill": "Princess Gaze",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "1" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Medicine Production", "lv": "2" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Wheat Seeds", "Lettuce Seeds"]
+  },
+  {
+    "id": "031",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Gobfin.webp",
+    "name": "Gobfin",
+    "element": "Water",
+    "skill": "Angry Shark",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Watering", "lv": "2" }
+    ],
+    "drops": ["Pal Fluids"]
+  },
+  {
+    "id": "032",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Hangyu.webp",
+    "name": "Hangyu",
+    "element": "Ground ",
+    "skill": "Flying Trapeze",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Fiber"]
+  },
+  {
+    "id": "033",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Mossanda.webp",
+    "name": "Mossanda",
+    "element": "Grass",
+    "skill": "Grenadier Panda",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Transporting", "lv": "3" }
+    ],
+    "drops": ["Mushroom", "Leather", "Tomato Seeds"]
+  },
+  {
+    "id": "034",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Woolipop.webp",
+    "name": "Woolipop",
+    "element": "Neutral",
+    "skill": "Candy Pop",
+    "lifeSkills": [{ "sk": "Farming", "lv": "1" }],
+    "drops": ["Cotton Candy", "High-quality Pal Oil"]
+  },
+  {
+    "id": "035",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Caprity.webp",
+    "name": "Caprity",
+    "element": "Grass",
+    "skill": "Berry Picker",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Caprity Meat", "Red Berries", "Horn"]
+  },
+  {
+    "id": "036",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Melpaca.webp",
+    "name": "Melpaca",
+    "element": "Neutral",
+    "skill": "Pacapaca Wool",
+    "lifeSkills": [{ "sk": "Farming", "lv": "1" }],
+    "drops": ["Wool", "Leather"]
+  },
+  {
+    "id": "037",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Eikthyrdeer.webp",
+    "name": "Eikthyrdeer",
+    "element": "Neutral",
+    "skill": "Guardian of the Forest",
+    "lifeSkills": [{ "sk": "Lumbering", "lv": "2" }],
+    "drops": ["Eikthyrdeer Venison", "Leather", "Horn"]
+  },
+  {
+    "id": "038",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Nitewing.webp",
+    "name": "Nitewing",
+    "element": "Neutral",
+    "skill": "Travel Companion",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "2" }],
+    "drops": ["Leather"]
+  },
+  {
+    "id": "039",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Ribunny.webp",
+    "name": "Ribunny",
+    "element": "Neutral",
+    "skill": "Skilled Fingers",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Leather", "Beautiful Flower"]
+  },
+  {
+    "id": "040",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Incineram.webp",
+    "name": "Incineram",
+    "element": "Fire/Dark",
+    "skill": "Flameclaw Hunter",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "1" },
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Mining", "lv": "1" }
+    ],
+    "drops": ["Horn", "Leather"]
+  },
+  {
+    "id": "041",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Cinnamoth.webp",
+    "name": "Cinnamoth",
+    "element": "Grass",
+    "skill": "Mysterious Scales",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Medicine Production", "lv": "1" }
+    ],
+    "drops": ["Honey", "Lettuce Seeds", "Wheat Seeds"]
+  },
+  {
+    "id": "042",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Arsox.webp",
+    "name": "Arsox",
+    "element": "Fire ",
+    "skill": "Warm Body",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "2" },
+      { "sk": "Lumbering", "lv": "1" }
+    ],
+    "drops": ["Horn", "Flame Organ"]
+  },
+  {
+    "id": "043",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Dumud.webp",
+    "name": "Dumud",
+    "element": "Ground ",
+    "skill": "Soil Improver",
+    "lifeSkills": [
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Watering", "lv": "1" },
+      { "sk": "Mining", "lv": "2" }
+    ],
+    "drops": ["Raw Dumud", "High Quality Pal Oil"]
+  },
+  {
+    "id": "044",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Cawgnito.webp",
+    "name": "Cawgnito",
+    "element": "Dark",
+    "skill": "Telepeck",
+    "lifeSkills": [{ "sk": "Lumbering", "lv": "1" }],
+    "drops": ["Bone", "Venom Gland", "Small Pal Soul"]
+  },
+  {
+    "id": "045",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Leezpunk.webp",
+    "name": "Leezpunk",
+    "element": "Dark",
+    "skill": "Sixth Sense",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Copper Key", "Silver Key"]
+  },
+  {
+    "id": "046",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Loupmoon.webp",
+    "name": "Loupmoon",
+    "element": "Dark",
+    "skill": "Claws Glistening in the Dark",
+    "lifeSkills": [{ "sk": "Handiwork", "lv": "2" }],
+    "drops": ["Bone"]
+  },
+  {
+    "id": "047",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Galeclaw.webp",
+    "name": "Galeclaw",
+    "element": "Neutral",
+    "skill": "Galeclaw Rider",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "2" }],
+    "drops": ["Galeclaw Poultry", "Leather"]
+  },
+  {
+    "id": "048",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Robinquill.webp",
+    "name": "Robinquill",
+    "element": "Grass",
+    "skill": "Hawk Eye",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "1" },
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Lumbering", "lv": "1" },
+      { "sk": "Medicine Production", "lv": "1" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Gathering", "lv": "2" }
+    ],
+    "drops": ["Wheat Seeds", "Arrow"]
+  },
+  {
+    "id": "049",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Gorirat.webp",
+    "name": "Gorirat",
+    "element": "Neutral",
+    "skill": "Full-power Gorilla Mode",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Transporting", "lv": "3" }
+    ],
+    "drops": ["Leather", "Bone"]
+  },
+  {
+    "id": "050",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Beegarde.webp",
+    "name": "Beegarde",
+    "element": "Grass",
+    "skill": "Worker Bee",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "1" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Lumbering", "lv": "1" },
+      { "sk": "Medicine Production", "lv": "1" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Gathering", "lv": "1" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Honey"]
+  },
+  {
+    "id": "051",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Elizabee.webp",
+    "name": "Elizabee",
+    "element": "Grass",
+    "skill": "Queen Bee Command",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Lumbering", "lv": "1" },
+      { "sk": "Medicine Production", "lv": "2" },
+      { "sk": "Gathering", "lv": "2" }
+    ],
+    "drops": ["Honey", "Elizabee's Staff"]
+  },
+  {
+    "id": "052",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Grintale.webp",
+    "name": "Grintale",
+    "element": "Neutral",
+    "skill": "Plump Body",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "2" }],
+    "drops": ["High-quality Pal Oil"]
+  },
+  {
+    "id": "053",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Swee.webp",
+    "name": "Swee",
+    "element": "Ice",
+    "skill": "Fluffy",
+    "lifeSkills": [
+      { "sk": "Gathering", "lv": "1" },
+      { "sk": "Cooling", "lv": "1" }
+    ],
+    "drops": ["Wool"]
+  },
+  {
+    "id": "054",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Sweepa.webp",
+    "name": "Sweepa",
+    "element": "Ice",
+    "skill": "King of Fluff",
+    "lifeSkills": [
+      { "sk": "Gathering", "lv": "2" },
+      { "sk": "Cooling", "lv": "2" }
+    ],
+    "drops": ["Wool"]
+  },
+  {
+    "id": "055",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Chillet.webp",
+    "name": "Chillet",
+    "element": "Ice/Dragon",
+    "skill": "Wriggling Weasel",
+    "lifeSkills": [
+      { "sk": "Gathering", "lv": "1" },
+      { "sk": "Cooling", "lv": "1" }
+    ],
+    "drops": ["Leather"]
+  },
+  {
+    "id": "056",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Univolt.webp",
+    "name": "Univolt",
+    "element": "Electric",
+    "skill": "Swift Deity",
+    "lifeSkills": [
+      { "sk": "Lumbering", "lv": "1" },
+      { "sk": "Generating Electricity", "lv": "2" }
+    ],
+    "drops": ["Leather", "Electric Organ", "Horn"]
+  },
+  {
+    "id": "058",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Pyrin.webp",
+    "name": "Pyrin",
+    "element": "Fire ",
+    "skill": "Red Hare",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "2" },
+      { "sk": "Lumbering", "lv": "1" }
+    ],
+    "drops": ["Flame Organ", "Leather"]
+  },
+  {
+    "id": "059",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Reindrix.webp",
+    "name": "Reindrix",
+    "element": "Ice",
+    "skill": "Cool Body",
+    "lifeSkills": [
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Cooling", "lv": "2" }
+    ],
+    "drops": ["Reindrix Venison", "Leather", "Horn", "Ice Organ"]
+  },
+  {
+    "id": "060",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Rayhound.webp",
+    "name": "Rayhound",
+    "element": "Electric",
+    "skill": "Jumping Force",
+    "lifeSkills": [{ "sk": "Generating Electricity", "lv": "2" }],
+    "drops": ["Electric Organ"]
+  },
+  {
+    "id": "062",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Dazzi.webp",
+    "name": "Dazzi",
+    "element": "Electric",
+    "skill": "Lady of Lightning",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Generating Electricity", "lv": "1" }
+    ],
+    "drops": ["Electric Organ"]
+  },
+  {
+    "id": "063",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Lunaris.webp",
+    "name": "Lunaris",
+    "element": "Neutral",
+    "skill": "Antigravity",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "3" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Paldium Fragment"]
+  },
+  {
+    "id": "064",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Dinossom.webp",
+    "name": "Dinossom",
+    "element": "Grass/Dragon",
+    "skill": "Fragrant Dragon",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Lumbering", "lv": "2" }
+    ],
+    "drops": ["Wheat Seeds"]
+  },
+  {
+    "id": "065",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Surfent.webp",
+    "name": "Surfent",
+    "element": "Water",
+    "skill": "Swift Swimmer",
+    "lifeSkills": [{ "sk": "Watering", "lv": "2" }],
+    "drops": ["Pal Fluids"]
+  },
+  {
+    "id": "066",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Maraith.webp",
+    "name": "Maraith",
+    "element": "Dark",
+    "skill": "Messenger of Death",
+    "lifeSkills": [
+      { "sk": "Gathering", "lv": "2" },
+      { "sk": "Mining", "lv": "1" }
+    ],
+    "drops": ["Bone", "Small Pal Soul"]
+  },
+  {
+    "id": "067",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Digtoise.webp",
+    "name": "Digtoise",
+    "element": "Ground ",
+    "skill": "Drill Crusher",
+    "lifeSkills": [{ "sk": "Mining", "lv": "3" }],
+    "drops": ["Ore", "High-quality Pal Oil"]
+  },
+  {
+    "id": "068",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Tombat.webp",
+    "name": "Tombat",
+    "element": "Dark",
+    "skill": "Ultrasonic Sensor",
+    "lifeSkills": [
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Gathering", "lv": "2" },
+      { "sk": "Mining", "lv": "2" }
+    ],
+    "drops": ["Leather", "Small Pal Soul"]
+  },
+  {
+    "id": "069",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Lovander.webp",
+    "name": "Lovander",
+    "element": "Neutral",
+    "skill": "Heart Drain",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Medicine Production", "lv": "2" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Mining", "lv": "1" }
+    ],
+    "drops": ["Mushroom", "Cake", "Suspicious Juice", "Strange Juice"]
+  },
+  {
+    "id": "070",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Flambelle.webp",
+    "name": "Flambelle",
+    "element": "Fire ",
+    "skill": "Magma Tears",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "1" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["Flame Organ", "High-quality Pal Oil"]
+  },
+  {
+    "id": "071",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Vanwyrm.webp",
+    "name": "Vanwyrm",
+    "element": "Fire/Dark",
+    "skill": "Aerial Marauder",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "1" },
+      { "sk": "Transporting", "lv": "3" }
+    ],
+    "drops": ["Bone", "Ruby", "Gold Coin"]
+  },
+  {
+    "id": "072",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Bushi.webp",
+    "name": "Bushi",
+    "element": "Fire ",
+    "skill": "Brandish Blade",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "2" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Lumbering", "lv": "3" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Bone", "Ingot"]
+  },
+  {
+    "id": "073",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Beakon.webp",
+    "name": "Beakon",
+    "element": "Electric",
+    "skill": "Thunderous",
+    "lifeSkills": [
+      { "sk": "Transporting", "lv": "3" },
+      { "sk": "Generating Electricity", "lv": "2" },
+      { "sk": "Gathering", "lv": "1" }
+    ],
+    "drops": ["Electric Organ"]
+  },
+  {
+    "id": "074",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Ragnahawk.webp",
+    "name": "Ragnahawk",
+    "element": "Fire ",
+    "skill": "Flame Wing",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "3" },
+      { "sk": "Transporting", "lv": "3" }
+    ],
+    "drops": ["Flame Organ"]
+  },
+  {
+    "id": "075",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Katress.webp",
+    "name": "Katress",
+    "element": "Dark",
+    "skill": "Grimoire Collector",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Medicine Production", "lv": "2" },
+      { "sk": "Transporting", "lv": "2" }
+    ],
+    "drops": ["Leather", "Katress Hair", "High-grade Technical Manual"]
+  },
+  {
+    "id": "076",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Wixen.webp",
+    "name": "Wixen",
+    "element": "Fire ",
+    "skill": "Lord Fox",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "2" },
+      { "sk": "Handiwork", "lv": "3" },
+      { "sk": "Transporting", "lv": "2" }
+    ],
+    "drops": ["Flame Organ", "High Grade Technical Manual"]
+  },
+  {
+    "id": "077",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Verdash.webp",
+    "name": "Verdash",
+    "element": "Grass",
+    "skill": "Grassland Speedster",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Handiwork", "lv": "3" },
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Gathering", "lv": "3" }
+    ],
+    "drops": ["Leather", "Bone"]
+  },
+  {
+    "id": "078",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Vaelet.webp",
+    "name": "Vaelet",
+    "element": "Grass",
+    "skill": "Purification of Gaia",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Medicine Production", "lv": "3" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "2" }
+    ],
+    "drops": ["Low-grade Medical Supplies", "Tomato Seeds"]
+  },
+  {
+    "id": "079",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Sibelyx.webp",
+    "name": "Sibelyx",
+    "element": "Ice",
+    "skill": "Silk Maker",
+    "lifeSkills": [
+      { "sk": "Medicine Production", "lv": "2" },
+      { "sk": "Cooling", "lv": "2" },
+      { "sk": "Farming", "lv": "1" }
+    ],
+    "drops": ["TBC"]
+  },
+  {
+    "id": "080",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Elphidran.webp",
+    "name": "Elphidran",
+    "element": "Dragon",
+    "skill": "Amicable Holy Dragon",
+    "lifeSkills": [{ "sk": "Lumbering", "lv": "2" }],
+    "drops": ["High-quality Pal Oil"]
+  },
+  {
+    "id": "081",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Kelpsea.webp",
+    "name": "Kelpsea",
+    "element": "Water",
+    "skill": "Aqua Spout",
+    "lifeSkills": [{ "sk": "Watering", "lv": "1" }],
+    "drops": ["Raw Kelpsea", "Pal Fluids"]
+  },
+  {
+    "id": "082",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Azurobe.webp",
+    "name": "Azurobe",
+    "element": "Water/Dragon",
+    "skill": "Waterwing Dance",
+    "lifeSkills": [{ "sk": "Watering", "lv": "3" }],
+    "drops": ["Cloth"]
+  },
+  {
+    "id": "083",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Cryolinx.webp",
+    "name": "Cryolinx",
+    "element": "Ice",
+    "skill": "Dragon Hunter",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Cooling", "lv": "3" }
+    ],
+    "drops": ["Ice Organ"]
+  },
+  {
+    "id": "084",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Blazehowl.jpg",
+    "name": "Blazehowl",
+    "element": "Fire ",
+    "skill": "Hellflame Lion",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "3" },
+      { "sk": "Lumbering", "lv": "2" }
+    ],
+    "drops": ["Flame Organ"]
+  },
+  {
+    "id": "085",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Relaxaurus.webp",
+    "name": "Relaxaurus",
+    "element": "Dragon/Water",
+    "skill": "Hungry Missile",
+    "lifeSkills": [
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Watering", "lv": "2" }
+    ],
+    "drops": ["High-quality Pal Oil", "Ruby"]
+  },
+  {
+    "id": "086",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Broncherry.webp",
+    "name": "Broncherry",
+    "element": "Grass",
+    "skill": "Overaffectionate",
+    "lifeSkills": [{ "sk": "Planting", "lv": "3" }],
+    "drops": ["Broncherry Meat", "Tomato Seeds"]
+  },
+  {
+    "id": "087",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Petallia.webp",
+    "name": "Petallia",
+    "element": "Grass",
+    "skill": "Blessing of the Flower Spirit",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "3" },
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Medicine Production", "lv": "2" },
+      { "sk": "Transporting", "lv": "1" },
+      { "sk": "Gathering", "lv": "2" }
+    ],
+    "drops": ["Beautiful Flower"]
+  },
+  {
+    "id": "088",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Reptyro.webp",
+    "name": "Reptyro",
+    "element": "Fire/Ground",
+    "skill": "Ore-Loving Beast",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "3" },
+      { "sk": "Mining", "lv": "3" }
+    ],
+    "drops": ["Flame Organ"]
+  },
+  {
+    "id": "089",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Kingpaca.webp",
+    "name": "Kingpaca",
+    "element": "Neutral",
+    "skill": "King of Muscles",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "1" }],
+    "drops": ["Flame Wool"]
+  },
+  {
+    "id": "090",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Mammorest.webp",
+    "name": "Mammorest",
+    "element": "Grass",
+    "skill": "Gaia Crusher",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "2" },
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Mining", "lv": "2" }
+    ],
+    "drops": ["High-quality Pal Oil", "Leather", "Mammorest Meat"]
+  },
+  {
+    "id": "091",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Wumpo.webp",
+    "name": "Wumpo",
+    "element": "Ice",
+    "skill": "Guardian of the Snowy Mountain",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Lumbering", "lv": "3" },
+      { "sk": "Transporting", "lv": "4" },
+      { "sk": "Cooling", "lv": "2" }
+    ],
+    "drops": ["Ice Organ", "Beautiful Flower"]
+  },
+  {
+    "id": "092",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Warsect.webp",
+    "name": "Warsect",
+    "element": "Ground/Grass",
+    "skill": "Hard Armor",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "1" },
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Lumbering", "lv": "3" },
+      { "sk": "Transporting", "lv": "3" }
+    ],
+    "drops": ["Honey"]
+  },
+  {
+    "id": "093",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Fenglope.webp",
+    "name": "Fenglope",
+    "element": "Neutral",
+    "skill": "Wind and Clouds",
+    "lifeSkills": [{ "sk": "Lumbering", "lv": "2" }],
+    "drops": ["Leather", "Horn"]
+  },
+  {
+    "id": "094",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Felbat.webp",
+    "name": "Felbat",
+    "element": "Dark",
+    "skill": "Life Steal",
+    "lifeSkills": [{ "sk": "Medicine Production", "lv": "3" }],
+    "drops": ["Cloth", "Small Pal Soul"]
+  },
+  {
+    "id": "095",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Quivern.jpg",
+    "name": "Quivern",
+    "element": "Dragon",
+    "skill": "Sky Dragon’s Affection",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Transporting", "lv": "3" },
+      { "sk": "Gathering", "lv": "2" },
+      { "sk": "Mining", "lv": "2" }
+    ],
+    "drops": ["High-quality Pal Oil"]
+  },
+  {
+    "id": "096",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Blazamut.webp",
+    "name": "Blazamut",
+    "element": "Fire ",
+    "skill": "Magma Kaiser",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "3" },
+      { "sk": "Mining", "lv": "4" }
+    ],
+    "drops": ["Coal", "Flame Organ"]
+  },
+  {
+    "id": "097",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Helzephyr.webp",
+    "name": "Helzephyr",
+    "element": "Dark",
+    "skill": "Wings of Death",
+    "lifeSkills": [{ "sk": "Transporting", "lv": "3" }],
+    "drops": ["Venom Gland", "Medium Pal Soul"]
+  },
+  {
+    "id": "098",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Astegon.webp",
+    "name": "Astegon",
+    "element": "Dragon/Dark",
+    "skill": "Black Ankylosaur",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "1" },
+      { "sk": "Mining", "lv": "4" }
+    ],
+    "drops": ["Pal Metal Ingot", "Pure Quartz"]
+  },
+  {
+    "id": "099",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Menasting.webp",
+    "name": "Menasting",
+    "element": "Dark/Ground",
+    "skill": "Steel Scorpion",
+    "lifeSkills": [
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Mining", "lv": "3" }
+    ],
+    "drops": ["Coal", "Venom Gland"]
+  },
+  {
+    "id": "100",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Anubis.webp",
+    "name": "Anubis",
+    "element": "Ground ",
+    "skill": "Guardian of the Desert",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "4" },
+      { "sk": "Transporting", "lv": "2" },
+      { "sk": "Mining", "lv": "3" }
+    ],
+    "drops": ["Bone", "Large Pal Soul", "Innovative Technical Manual"]
+  },
+  {
+    "id": "101",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Jormuntide.webp",
+    "name": "Jormuntide",
+    "element": "Dragon/Water",
+    "skill": "Stormbringer Sea Dragon",
+    "lifeSkills": [{ "sk": "Watering", "lv": "4" }],
+    "drops": ["Pal Fluids"]
+  },
+  {
+    "id": "102",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Suzaku.webp",
+    "name": "Suzaku",
+    "element": "Fire ",
+    "skill": "Wings of Flame",
+    "lifeSkills": [{ "sk": "Kindling", "lv": "3" }],
+    "drops": ["Flame Organ"]
+  },
+  {
+    "id": "103",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Grizzbolt.webp",
+    "name": "Grizzbolt",
+    "element": "Electric",
+    "skill": "Yellow Tank",
+    "lifeSkills": [
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Lumbering", "lv": "2" },
+      { "sk": "Transporting", "lv": "3" },
+      { "sk": "Generating Electricity", "lv": "3" }
+    ],
+    "drops": ["Electric Organ", "Leather"]
+  },
+  {
+    "id": "104",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Lyleen.webp",
+    "name": "Lyleen",
+    "element": "Grass",
+    "skill": "Harvest Goddess",
+    "lifeSkills": [
+      { "sk": "Planting", "lv": "4" },
+      { "sk": "Handiwork", "lv": "3" },
+      { "sk": "Gathering", "lv": "2" },
+      { "sk": "Medicine Production", "lv": "3" }
+    ],
+    "drops": [
+      "Low Grade Medicine",
+      "Beautiful Flower",
+      "Innovative Technical Manual"
+    ]
+  },
+  {
+    "id": "105",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Faleris.webp",
+    "name": "Faleris",
+    "element": "Fire ",
+    "skill": "Scorching Predator",
+    "lifeSkills": [
+      { "sk": "Kindling", "lv": "3" },
+      { "sk": "Transporting", "lv": "3" }
+    ],
+    "drops": ["Flame Organ"]
+  },
+  {
+    "id": "106",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Orserk.webp",
+    "name": "Orserk",
+    "element": "Dragon/Electric",
+    "skill": "Ferocious Thunder Dragon",
+    "lifeSkills": [
+      { "sk": "Generating Electricity", "lv": "4" },
+      { "sk": "Handiwork", "lv": "2" },
+      { "sk": "Transporting", "lv": "3" }
+    ],
+    "drops": ["Electric Organ"]
+  },
+  {
+    "id": "107",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Shadowbeak.webp",
+    "name": "Shadowbeak",
+    "element": "Dark",
+    "skill": "Modified DNA",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "1" }],
+    "drops": ["Pal Metal Ingot", "Carbon Fiber", "Innovative Technical Manual"]
+  },
+  {
+    "id": "110",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Frostallion.webp",
+    "name": "Frostallion",
+    "element": "Ice",
+    "skill": "Ice Steed",
+    "lifeSkills": [{ "sk": "Cooling", "lv": "4" }],
+    "drops": ["Ice Organ", "Diamond"]
+  },
+  {
+    "id": "111",
+    "img": "https://genshinlab.com/wp-content/uploads/2024/01/Jetragon.jpg",
+    "name": "Jetragon",
+    "element": "Dragon",
+    "skill": "Aerial Missile",
+    "lifeSkills": [{ "sk": "Gathering", "lv": "3" }],
+    "drops": ["Pure Quartz", "Polymer", "Carbon Fiber", "Diamond"]
+  }
+]

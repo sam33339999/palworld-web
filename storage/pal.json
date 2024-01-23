@@ -1,0 +1,1264 @@
+[
+    {
+        "id": "001",
+        "name": "棉悠悠 (無)",
+        "food": 2,
+        "extra": " 手工1 搬運1 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/d65de94f19fed2d8dc252dcfa3e39b07.PNG",
+        "drop_item": "羊毛、棉悠悠的羊肉",
+        "skill": "茸茸盾牌 (發動後化身為裝備在玩家身上的盾牌)，分派到家畜牧場時有機會掉落羊毛"
+    },
+    {
+        "id": "002",
+        "name": "搗蛋貓 (無)",
+        "food": 2,
+        "extra": " 手工1 採集1 挖掘1 搬運1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/1c6d3185b37bb7c0d09cc26d652ec541.PNG",
+        "drop_item": "紅色野莓",
+        "skill": "跟貓借手手 (若搗蛋貓在隊伍中，會幫忙搬運行李，提高玩家的負重上限)"
+    },
+    {
+        "id": "003",
+        "name": "皮皮雞 (無)",
+        "food": 1,
+        "extra": " 採集1 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/d4a7cb9f58e7c128f659b8bac297a892.PNG",
+        "drop_item": "蛋、皮皮雞的雞肉",
+        "skill": "產蛋 (分派到家畜牧場時有機會下蛋)"
+    },
+    {
+        "id": "004",
+        "name": "翠葉鼠 (草)",
+        "food": 1,
+        "extra": " 手工1 播種1 採伐1 製藥1 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/fdf93b6da8bd175bd256ba49909fd8ad.PNG",
+        "drop_item": "野莓種子、劣質藥品",
+        "skill": "翠葉鼠出擊 (發動後會坐在玩家頭上，配合玩家攻擊用衝鋒槍進行追擊)"
+    },
+    {
+        "id": "005",
+        "name": "火絨狐 (火)",
+        "food": 2,
+        "extra": " 生火1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/939f361f67ede03049fcd007f4afb438.PNG",
+        "drop_item": "皮革、噴火器官",
+        "skill": "抱抱火焰 (發動後可裝備在玩家身上的火焰噴射器)"
+    },
+    {
+        "id": "006",
+        "name": "衝浪鴨 (水)",
+        "food": 2,
+        "extra": " 手工1 搬運1 澆水1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/81c634da9544a85bb4bb3ae8f8938b50.PNG",
+        "drop_item": "皮革、帕魯體液",
+        "skill": "乘風破浪 (發動後衝浪鴨會乘著浪頭衝向敵人)"
+    },
+    {
+        "id": "007",
+        "name": "伏特喵 (雷)",
+        "food": 2,
+        "extra": " 手工1 發電1 搬運1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/1a4ecaa014d4eb9a2af0240aedb04304.PNG",
+        "drop_item": "發電器官",
+        "skill": "靜電 (若牠在隊伍中，雷屬性帕魯的攻擊力會有所提升)"
+    },
+    {
+        "id": "008",
+        "name": "新葉猿 (草)",
+        "food": 2,
+        "extra": " 播種1 手工1 採伐1 搬運1 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/6865d732583dbd10a68822295e41907a.PNG",
+        "drop_item": "蘑菇",
+        "skill": "猴急步槍 (發動後在一定時間內以突擊步槍猛力掃射附近敵人)"
+    },
+    {
+        "id": "009",
+        "name": "燎火鹿 (火)",
+        "food": 3,
+        "extra": " 生火1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/7cd197a799833b53291c32c229718d44.PNG",
+        "drop_item": "噴火器官、皮革",
+        "skill": "微小火種 (若牠在隊伍中，火屬性帕魯的攻擊力會有所提升)"
+    },
+    {
+        "id": "010",
+        "name": "企丸丸 (水)",
+        "food": 2,
+        "extra": " 手工1 澆水1 冷卻1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/3823071fac3e198f34e9c562a4256319.PNG",
+        "drop_item": "結冰器官、帕魯體液",
+        "skill": "企丸丸發射 (發動後玩家將裝備火箭發射器，可將企丸丸當作砲彈射出，命終目標後企丸丸會爆炸並陷入瀕死狀態)"
+    },
+    {
+        "id": "011",
+        "name": "企丸王 (水)",
+        "food": 8,
+        "extra": " 手工2 搬運2 澆水2 挖掘2 冷卻2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/68ae0c0a3c6ca9f36301020c0e79318c.PNG",
+        "drop_item": "結冰器官、企丸王的羽飾",
+        "skill": "勇敢的海之戰士 (與牠並肩作戰時，若擊倒火屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)",
+        "boss": true
+    },
+    {
+        "id": "012",
+        "name": "電棘鼠 (雷)",
+        "food": 2,
+        "extra": " 發電1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/9ce3ad1341f3e335730b17cea2e086b2.PNG",
+        "drop_item": "發電器官",
+        "skill": "電擊炸彈 (發動後將電棘鼠裝備在手上，若將牠投向敵人且命中目標，便會引發雷爆)"
+    },
+    {
+        "id": "012B",
+        "name": "電棘鼠 (冰)",
+        "food": 2,
+        "extra": " 冷卻1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/b649441260b4a193f7977156de3b0ec2.PNG",
+        "drop_item": "結冰器官",
+        "skill": "凍結炸彈 (發動後將冰刺鼠裝備在手上，若將牠投向敵人且命中目標，便會引發冰爆)",
+        "fertility": true
+    },
+    {
+        "id": "013",
+        "name": "葉泥泥 (草)",
+        "food": 1,
+        "extra": " 播種1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8a514ce2b4ee374da9531341631f8fc7.PNG",
+        "drop_item": "野莓種子、葉泥泥的種子",
+        "skill": "樵夫啦啦隊 (若牠在隊伍中，玩家採伐時將能造成更多傷害)"
+    },
+    {
+        "id": "014",
+        "name": "玉藻狐 (無)",
+        "food": 1,
+        "extra": " 採集1 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/2463edc9877e82a1d9041fc188f658a0.PNG",
+        "drop_item": "皮革、骨頭",
+        "skill": "挖掘指導 (將牠分派到家畜牧場，有機會從地裡挖出道具)"
+    },
+    {
+        "id": "015",
+        "name": "啼卡爾 (暗)",
+        "food": 3,
+        "extra": " 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8c970cd14874333cd7a37e1974ca18f6.PNG",
+        "drop_item": "纖維、高等技術書",
+        "skill": "暗影睿智 (若牠在隊伍中，暗屬性帕魯的攻擊力會有所提升)",
+        "evening": true
+    },
+    {
+        "id": "016",
+        "name": "壺小象 (水)",
+        "food": 2,
+        "extra": " 澆水1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/4c3e76d8475f98a4ae58668f772c692a.PNG",
+        "drop_item": "帕魯體液",
+        "skill": "療傷之浴 (發動後會噴出對傷口極有療效的神祕之水，可恢復玩家的生命值)"
+    },
+    {
+        "id": "017",
+        "name": "瞅什魔 (暗)",
+        "food": 2,
+        "extra": " 手工1 搬運1 挖掘1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/b9575d2f5e1dee1ded9130bc21fc9fbc.PNG",
+        "drop_item": "毒腺",
+        "skill": "攝取咖啡因 (發動後瞅什魔會大量飲用能量飲料，在一定時間內大幅提升自己的移動速度)",
+        "evening": true
+    },
+    {
+        "id": "018",
+        "name": "米露菲 (無)",
+        "food": 2,
+        "extra": " 採集1 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/42f6584d9e3092b7ba8ebfc5ac08baec.PNG",
+        "drop_item": "羊毛",
+        "skill": "蓬鬆毛毛 (若牠在隊伍中，無屬性帕魯的攻擊力會有所提升) 將牠分派到家畜牧場有雞會掉落羊毛"
+    },
+    {
+        "id": "019",
+        "name": "寐魔 (暗)",
+        "food": 3,
+        "extra": " 手工1 搬運1 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/21e312c15fb7a008c96933c7b1e8b715.PNG",
+        "drop_item": "毒腺、小型帕魯之魂",
+        "skill": "逐夢者 (若牠在隊伍中，就會出現在玩家身邊，牠會配合玩家的攻勢以魔彈追擊)",
+        "evening": true
+    },
+    {
+        "id": "020",
+        "name": "草莽豬 (地)",
+        "food": 3,
+        "extra": " 挖掘1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/ffc9be7e7f7715f15cbbe594051823da.PNG",
+        "drop_item": "草莽豬的豬肉、皮革、骨頭",
+        "skill": "堅硬頭殼 (可騎在牠的背上，騎乘期間破壞岩石的效率會提高)"
+    },
+    {
+        "id": "021",
+        "name": "露娜蒂 (暗)",
+        "food": 2,
+        "extra": " 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/07f29ecb17b70b4a65666579904edd91.PNG",
+        "drop_item": "皮革、小型帕魯之魂",
+        "skill": "冷嬌 (與牠並肩作戰時，牠會為玩家的攻擊賦予暗屬性)",
+        "evening": true
+    },
+    {
+        "id": "022",
+        "name": "遁地鼠 (地)",
+        "food": 2,
+        "extra": " 手工1 搬運1 挖掘1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/647d94632aeae4abb5d5d8b1bc0acfba.PNG",
+        "drop_item": "皮革",
+        "skill": "探測礦石 (發動後發出微小的震動，可探測附近的礦石位置)"
+    },
+    {
+        "id": "023",
+        "name": "勾魂魷 (暗)",
+        "food": 3,
+        "extra": " 採集1 搬運2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8dfecdf9bb8b8676df47fcc1ceb2200e.PNG",
+        "drop_item": "毒腺",
+        "skill": "炸魷魚 (若牠在隊伍中，可召喚牠來代替滑翔傘，滑翔期間可長時間漂浮在空中)"
+    },
+    {
+        "id": "024",
+        "name": "喵絲特 (暗)",
+        "food": 1,
+        "extra": " 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/9f5fdea54b724caa440a73c9cfee4f4c.PNG",
+        "drop_item": "金幣",
+        "skill": "招財貓 (將牠分派到家畜牧場，有機會從地裡挖出金幣)"
+    },
+    {
+        "id": "024B",
+        "name": "冰絲特 (冰)",
+        "food": 1,
+        "extra": " 牧場1 冷卻1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/a2bb0e39fa51516f330ab7d67bfc6b7f.PNG",
+        "drop_item": "結冰器官、藍寶石",
+        "skill": "招財貓 (將牠分派到家畜牧場，有機會從地裡挖出金幣)"
+    },
+    {
+        "id": "025",
+        "name": "魯米兒 (水)",
+        "food": 3,
+        "extra": " 搬運1 澆水1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/89f02eb7e068a9a1f3386da291c8b282.PNG",
+        "drop_item": "帕魯體液",
+        "skill": "微風飛翔 (若牠在隊伍中，能召喚牠來代替滑翔傘，滑翔期間可長時間迅速移動)"
+    },
+    {
+        "id": "026",
+        "name": "獵狼 (無)",
+        "food": 3,
+        "extra": " 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/05ab04ec5fab84ebcd8eb905cd357a3b.PNG",
+        "drop_item": "皮革、紅寶石、金幣",
+        "skill": "獵狼騎手 (可騎在牠背上移動，騎乘期間的移動速度會稍微變快一點)"
+    },
+    {
+        "id": "027",
+        "name": "炸蛋鳥 (無)",
+        "food": 2,
+        "extra": " 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/450d4b8e4c36681b4fb2fd04e4680e3c.PNG",
+        "drop_item": "火藥、炸蛋鳥的羽毛",
+        "skill": "炸蛋發射器 (發動後化身為裝備在玩家身上的發射器，可製造會爆炸的蛋)"
+    },
+    {
+        "id": "028",
+        "name": "波娜兔 (草)",
+        "food": 3,
+        "extra": " 手工1 播種1 製藥1 搬運1 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/9091335e547f99973f1483c2312836f1.PNG",
+        "drop_item": "劣質藥品、小麥種子",
+        "skill": "兔兔助手 (若牠在隊伍中就會出現在玩家身邊，牠會自動拾取附近道具)"
+    },
+    {
+        "id": "029",
+        "name": "波霸牛 (無)",
+        "food": 3,
+        "extra": " 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/31f5aa48620d4811f48dd9d84fd1701d.PNG",
+        "drop_item": "波霸牛的牛肉、牛奶",
+        "skill": "產奶 (將牠分派到家畜牧場，有機會生產牛奶)"
+    },
+    {
+        "id": "030",
+        "name": "荊棘魔仙 (草)",
+        "food": 5,
+        "extra": " 手工1 播種1 製藥2 搬運1 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/7536bae1f9ab8eefb2c99603e1bdbd21.PNG",
+        "drop_item": "小麥種子、生菜種子",
+        "skill": "公主的視線 (若牠在隊伍中，草屬性帕魯的攻擊會有所提升)"
+    },
+    {
+        "id": "031",
+        "name": "鯊小子 (水)",
+        "food": 3,
+        "extra": " 手工1 搬運1 澆水2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/dd59337feb24710d3fd0f7cadee36bf9.PNG",
+        "drop_item": "帕魯體液",
+        "skill": "易怒鯊鯊 (發動後會以威力極高的水槍，攻擊鎖定的目標敵人) 若牠在隊伍中，會提升玩家的攻擊力"
+    },
+    {
+        "id": "031B",
+        "name": "紅小鯊 (火)",
+        "food": 3,
+        "extra": " 手工1 搬運1 生火2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/427e76a46442b0bd0d03b740f156ddf7.PNG",
+        "drop_item": "噴火器官",
+        "skill": "易怒鯊鯊 (發動後會以威力極高的水槍，攻擊鎖定的目標敵人) 若牠在隊伍中，會提升玩家的攻擊力"
+    },
+    {
+        "id": "032",
+        "name": "吊縛靈 (地)",
+        "food": 2,
+        "extra": " 手工1 搬運2 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/d6ee8ea638ddc3e2847de6ff6b5edeaf.PNG",
+        "drop_item": "纖維",
+        "skill": "空中鞦韆 (若牠在隊伍中，能召喚牠來代替滑翔傘，滑翔期間牠會將玩家高高舉起)"
+    },
+    {
+        "id": "032B",
+        "name": "冰縛靈 (冰)",
+        "food": 0,
+        "extra": " 手工1 搬運2 採集1 冷卻1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/aa58915176d372440fac5c11750b6bae.JPG",
+        "drop_item": "纖維、結冰器官",
+        "skill": "寒空鞦韆 (若牠在隊伍中，能召喚牠來代替滑翔傘，滑翔期間牠會將玩家高高舉起)",
+        "evening": true
+    },
+    {
+        "id": "033",
+        "name": "葉胖達 (草)",
+        "food": 5,
+        "extra": " 手工2 播種2 採伐2 搬運3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/16b32fcd854a7e1d7f19f78fa749ed89.JPG",
+        "drop_item": "蘑菇、皮革、番茄種子",
+        "skill": "不良熊貓 (可騎在牠的背上移動，騎乘期間還能用榴彈發射器連續攻擊)"
+    },
+    {
+        "id": "033B",
+        "name": "雷胖達 (雷)",
+        "food": 5,
+        "extra": " 手工2 發電2 採伐2 搬運3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/7d88c0dc7ce895690279c831b7cd1ce4.JPG",
+        "drop_item": "蘑菇、發電器官、皮革",
+        "skill": "不良熊貓 (可騎在牠的背上移動，騎乘期間還能用榴彈發射器連續攻擊)"
+    },
+    {
+        "id": "034",
+        "name": "棉花糖 (無)",
+        "food": 2,
+        "extra": " 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/65c5b37f4a34f3cf0c1dbaf3b8489f69.PNG",
+        "drop_item": "棉花糖、優質帕魯油",
+        "skill": "糖果甜心 (分派到家畜牧場，可能掉落棉花糖)"
+    },
+    {
+        "id": "035",
+        "name": "灌木羊 (草)",
+        "food": 4,
+        "extra": " 播種2 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/4761dd2b4d66afb1b3aeaff9fed10006.JPG",
+        "drop_item": "灌木羊的香草肉、紅色野莓、角",
+        "skill": "採摘野莓 (分派到家畜牧場，有機會掉落紅色野莓)"
+    },
+    {
+        "id": "036",
+        "name": "美露帕 (無)",
+        "food": 3,
+        "extra": " 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/06311eaf5a9e6d2d2f5dd290257eb9c7.PNG",
+        "drop_item": "羊毛、皮革",
+        "skill": "蓬蓬羊毛 (可騎在牠背上移動) 將牠分派到家畜牧場，有機會掉落羊毛。"
+    },
+    {
+        "id": "037",
+        "name": "紫霞鹿 (無)",
+        "food": 5,
+        "extra": " 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/e7832f3afff632f74b961661e3d423bf.JPG",
+        "drop_item": "紫霞鹿的鹿肉、皮革、角",
+        "skill": "森林守護者 (可騎在牠背上移動，騎乘期間可以二段跳，破壞樹木的效率也會提高)"
+    },
+    {
+        "id": "037B",
+        "name": "祈岳鹿 (地)",
+        "food": 5,
+        "extra": " 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/7d246ceabd0a8cf1cf9f585d8287aadb.JPG",
+        "drop_item": "紫霞鹿的鹿肉、皮革、角",
+        "skill": "森林守護者 (可騎在牠背上移動，騎乘期間可以二段跳，破壞樹木的效率也會提高)"
+    },
+    {
+        "id": "038",
+        "name": "疾風隼 (無)",
+        "food": 7,
+        "extra": " 採集2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8f777523eb57cb3e513b09edee827040.PNG",
+        "drop_item": "皮革",
+        "skill": "旅伴 (可騎在牠的背上在空中飛行)"
+    },
+    {
+        "id": "039",
+        "name": "姬小兔 (無)",
+        "food": 2,
+        "extra": " 手工1 搬運1 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/87b4e6cd962cdbfe316568e7d84d44cd.PNG",
+        "drop_item": "皮革、美麗花朵",
+        "skill": "巧手 (若牠在隊伍中，無屬性帕魯的攻擊力會有所提升) (若牠在據點裡，武器製作台工作的效率會有所提升)"
+    },
+    {
+        "id": "040",
+        "name": "炎魔羊 (火+暗)",
+        "food": 4,
+        "extra": " 手工2 搬運2 生火1 挖掘1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/fde9822a0edaa017ad8f1f7a360a6998.PNG",
+        "drop_item": "角、皮革",
+        "skill": "焰爪獵人 (發動後會以威力極高的獄火爪攻擊鎖定的目標敵人)"
+    },
+    {
+        "id": "040B",
+        "name": "暗魔羊 (暗)",
+        "food": 4,
+        "extra": " 手工2 搬運2 生火1 挖掘1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/5822716effd8a16323a112a59f8dabec.JPG",
+        "drop_item": "角、皮革",
+        "skill": "黑爪獵人 (發動後會以威力極高的獄火爪攻擊鎖定的目標敵人)"
+    },
+    {
+        "id": "041",
+        "name": "幻悅蝶 (草)",
+        "food": 3,
+        "extra": " 播種2 製藥1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/ae009ad754171a3b37f8916a765d0784.PNG",
+        "drop_item": "蜂蜜、生菜種子、小麥種子",
+        "skill": "神秘鱗粉 (發動後，會以毒霧攻擊鎖定的敵人)"
+    },
+    {
+        "id": "042",
+        "name": "熾焰牛 (火)",
+        "food": 5,
+        "extra": " 生火2 採伐1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/e594f288bd165118f3df74293839b80e.PNG",
+        "drop_item": "角、噴火器官",
+        "skill": "溫暖之軀 (可騎在牠背上移動，騎乘期間不會感受到寒意)"
+    },
+    {
+        "id": "043",
+        "name": "趴趴鯰 (地)",
+        "food": 4,
+        "extra": " 搬運1 澆水1 挖掘2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/14188fc9b2aefa785609f60ba8db3ed3.PNG",
+        "drop_item": "趴趴鯰的魚肉、優質帕魯油",
+        "skill": "改善土質 (若牠在隊伍中，地屬性帕魯的攻擊力會有所提升)"
+    },
+    {
+        "id": "044",
+        "name": "黑鴉隱士 (暗)",
+        "food": 5,
+        "extra": " 採伐1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/22bc5cb12e06f3fcbc7ac5296ec674cb.PNG",
+        "drop_item": "骨頭、毒腺、小型帕魯之魂",
+        "skill": "幻影突襲 (發動後會以威力極高的幻影突襲，攻擊鎖定的目標敵人)",
+        "evening": true
+    },
+    {
+        "id": "045",
+        "name": "龐克蜥 (暗)",
+        "food": 3,
+        "extra": " 手工1 搬運1 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/c6f174e5757652ac436c2dd538430725.PNG",
+        "drop_item": "銅鑰匙、銀鑰匙",
+        "skill": "第六感 (發動後能探測附近的地下城位置)"
+    },
+    {
+        "id": "045B",
+        "name": "熱血蜥 (火)",
+        "food": 3,
+        "extra": " 生火1 手工1 採集1 搬運1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8a2e103aa541026142114bba26241523.PNG",
+        "drop_item": "噴火器官、銀鑰匙",
+        "skill": "第六感 (發動後能探測附近的地下城位置)"
+    },
+    {
+        "id": "046",
+        "name": "月鐮魔 (暗)",
+        "food": 5,
+        "extra": " 手工2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8f0f0a469a1d16799ac61ae0eb17a3c5.PNG",
+        "drop_item": "骨頭",
+        "skill": "黑暗中的閃亮利爪 (發動後會以威力極高的飛躍爪擊，攻擊鎖定的目標敵人)",
+        "evening": true
+    },
+    {
+        "id": "047",
+        "name": "天擒鳥 (無)",
+        "food": 4,
+        "extra": " 採集2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/a89283b7df6b852c51b86dd50b763d55.PNG",
+        "drop_item": "天擒鳥的鳥肉、皮革",
+        "skill": "天擒鳥滑翔 (若牠在隊伍中，能召喚牠來代替滑翔傘，滑翔期間右手會空出來，因此可以持槍射擊)"
+    },
+    {
+        "id": "048",
+        "name": "羽箭射手 (草)",
+        "food": 3,
+        "extra": " 手工2 搬運2 採集2 播種1 採伐1 製藥1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/24674434f87e2e1120d1bbbdc087592e.PNG",
+        "drop_item": "小麥種子、箭",
+        "skill": "鷹眼 (與牠並肩作戰時，玩家將能對敵方弱點部位造成更多傷害)"
+    },
+    {
+        "id": "048B",
+        "name": "山岳射手 (草+地)",
+        "food": 3,
+        "extra": "手工2 搬運2 採集2 採伐1 製藥1",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/98eda57b526bf335821a8d41e1e71631.PNG",
+        "drop_item": "小麥種子、箭",
+        "skill": "鷹眼 (與牠並肩作戰時，玩家將能對敵方弱點部位造成更多傷害)"
+    },
+    {
+        "id": "049",
+        "name": "鐵拳猿 (無)",
+        "food": 3,
+        "extra": " 手工1 採伐2 搬運3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/9b8247697ff96bc307af68f8a6a1eb8f.PNG",
+        "drop_item": "皮革、骨頭",
+        "skill": "火力全開大猩猩模式 (發動後解放野性之力，在一定時間內提升鐵拳猿的攻擊力)"
+    },
+    {
+        "id": "050",
+        "name": "騎士蜂 (草)",
+        "food": 3,
+        "extra": " 手工1 播種1 採伐1 製藥1 採集1 牧場1 搬運2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/486f77342be2309187e545e3fa56946b.PNG",
+        "drop_item": "蜂蜜",
+        "skill": "工蜂 (將牠分派到家畜牧場，有機會掉落蜂蜜) (若牠在隊伍中，女皇蜂的屬性會有所提升)"
+    },
+    {
+        "id": "051",
+        "name": "女皇蜂 (草)",
+        "food": 7,
+        "extra": " 手工2 播種2 製藥2 採集2 採伐1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/27750b39d996415d2fbb558b932e417e.JPG",
+        "drop_item": "蜂蜜、女皇蜂之杖",
+        "skill": "女王蜂的統率 (與牠並肩作戰時，在隊伍中的騎士蜂數量越多，牠的屬性就能提升越多)"
+    },
+    {
+        "id": "052",
+        "name": "笑魘貓 (無)",
+        "food": 4,
+        "extra": " 採集2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/9da45da2f6ca6282ee080c86b6130b91.PNG",
+        "drop_item": "優質帕魯油",
+        "skill": "豐潤之軀 (可騎在他的背上移動，騎乘期間的無屬性攻擊將得到強化)",
+        "evening": true
+    },
+    {
+        "id": "053",
+        "name": "毛撣兒 (冰)",
+        "food": 2,
+        "extra": " 採集1 冷卻1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/cec0e43249270f2e8b57fdb3ee3af5c6.PNG",
+        "drop_item": "羊毛",
+        "skill": "毛茸茸茸茸 (若牠在隊伍中，毛老爹的屬性會有所提升)"
+    },
+    {
+        "id": "054",
+        "name": "毛老爹 (冰)",
+        "food": 3,
+        "extra": " 採集2 冷卻2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/6b672a271a4afb60d6be89553b4ddc59.PNG",
+        "drop_item": "羊毛",
+        "skill": "毛茸茸之王 (可騎在牠背上移動，與牠並肩作戰時，隊伍中的毛撢兒數量越多，牠的屬性就能提升越多)"
+    },
+    {
+        "id": "055",
+        "name": "疾旋鼬 (冰+龍)",
+        "food": 3,
+        "extra": " 採集1 冷卻1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/41ae34d0fa87460c935dbef0b6b82658.PNG",
+        "drop_item": "皮革",
+        "skill": "扭扭鼬鼬 (可騎在牠背上移動，騎乘期間牠會為玩家的攻擊賦予龍屬性)"
+    },
+    {
+        "id": "056",
+        "name": "雷角馬 (雷)",
+        "food": 5,
+        "extra": " 採伐1 發電2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/69415be4cfa459c4df06516e8e9b1ca2.JPG",
+        "drop_item": "皮革、發電器官、角",
+        "skill": "疾風迅雷 (可騎在牠背上移動，騎乘期間會為玩家的攻擊賦予雷屬性)"
+    },
+    {
+        "id": "057",
+        "name": "吹雪狐 (冰)",
+        "food": 3,
+        "extra": " 冷卻2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/d5f09d43df2d1060b1497c490d827c04.JPG",
+        "drop_item": "皮革、結冰器官",
+        "skill": "極光的指引 (若牠在隊伍中，冰屬性帕魯的攻擊力會有所提升)"
+    },
+    {
+        "id": "058",
+        "name": "火麒麟 (火)",
+        "food": 5,
+        "extra": " 生火2 採伐1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/6b973c7ed8dbeb31f32790d6c1ea198b.JPG",
+        "drop_item": "噴火器官、皮革",
+        "skill": "赤兔馬 (可騎在牠背上移動，騎乘期間會為玩家的攻擊賦予火屬性)"
+    },
+    {
+        "id": "058B",
+        "name": "邪麒麟 (火+暗)",
+        "food": 5,
+        "extra": "食量5 生火2 採伐1",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/5c5ad29eec29f5bb66b5c5eb98c77e97.JPG",
+        "drop_item": "噴火器官、皮革",
+        "skill": "黑兔馬 (可騎在牠背上移動，騎乘期間會為玩家的攻擊賦予暗屬性)",
+        "evening": true
+    },
+    {
+        "id": "059",
+        "name": "嚴冬鹿 (冰)",
+        "food": 7,
+        "extra": " 採伐2 冷卻2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/283d471174c87ee752d9942df54eb2cf.JPG",
+        "drop_item": "嚴冬鹿的鹿肉、皮革、角、結冰器官",
+        "skill": "冰涼之軀 (可騎在牠背上移動，騎乘期間不會感受到炎熱)"
+    },
+    {
+        "id": "060",
+        "name": "霹靂犬 (雷)",
+        "food": 5,
+        "extra": " 發電2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8181b5ccff4f9528414677753ecbf36e.PNG",
+        "drop_item": "發電器官",
+        "skill": "跳躍力 (可騎在牠的背上移動，騎乘期間可以二段跳)"
+    },
+    {
+        "id": "061",
+        "name": "蒼焰狼 (火)",
+        "food": 4,
+        "extra": " 生火2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/1fbca59561a1456b4013f446237a4c10.JPG",
+        "drop_item": "噴火器官、皮革",
+        "skill": "心無雜念 (可騎在牠的背上移動，騎乘期間不會受到寒冷或炎熱的影響)",
+        "evening": true
+    },
+    {
+        "id": "062",
+        "name": "雷鳴童子 (雷)",
+        "food": 2,
+        "extra": " 手工1 搬運1 發電1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/c7ba69922b2256f178a1e38de1bb5cb9.PNG",
+        "drop_item": "發電器官",
+        "skill": "雷電姑娘 (若牠在隊伍中，就會出現在玩家身邊，牠會配合玩家的攻勢以落雷追擊)"
+    },
+    {
+        "id": "063",
+        "name": "秘斯媞雅 (無)",
+        "food": 2,
+        "extra": " 手工3 採集1 搬運1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/0eaf0f7c7bf999238c5c2cf3ad7fbc42.PNG",
+        "drop_item": "帕魯礦碎塊",
+        "skill": "反重力 (若秘斯媞雅在隊伍中，就能通過牠的反重力提高玩家的負重上限)",
+        "boss": true
+    },
+    {
+        "id": "064",
+        "name": "花冠龍 (草+龍)",
+        "food": 6,
+        "extra": " 播種2 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/1c5c155556f90ce8dd9787a6b78ce323.PNG",
+        "drop_item": "小麥種子",
+        "skill": "馥郁花香之龍 (可騎在牠的背上移動，騎乘期間的草屬性攻擊將得到強化)"
+    },
+    {
+        "id": "064B",
+        "name": "雷冠龍 (雷+龍)",
+        "food": 6,
+        "extra": "發電2 採伐2",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/0d6228fd8bcc25e84e466b9c77750e0c.PNG",
+        "drop_item": "番茄種子",
+        "skill": "落雷綻放之龍 (可騎在牠的背上移動，騎乘期間的雷屬性攻擊將得到強化)"
+    },
+    {
+        "id": "065",
+        "name": "滑水蛇 (水)",
+        "food": 5,
+        "extra": " 澆水2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/707ec7f5d5217cd592ce33f970154198.PNG",
+        "drop_item": "帕魯體液",
+        "skill": "滑滑水蛇 (可騎在牠的背上移動，騎乘期間在水上移動不會消耗體力)"
+    },
+    {
+        "id": "065",
+        "name": "流沙蛇 (地)",
+        "food": 5,
+        "extra": "採集1",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/62face92c35fca36c302365d2deac82a.PNG",
+        "drop_item": "帕魯體液",
+        "skill": "滑滑沙蛇 (可騎在牠的背上移動)"
+    },
+    {
+        "id": "066",
+        "name": "噬魂獸 (暗)",
+        "food": 3,
+        "extra": " 採集2 挖掘1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/c8cdc0012d59c9081fbb165ce2341ae6.PNG",
+        "drop_item": "骨頭、小型帕魯之魂",
+        "skill": "冥界使者 (可騎在牠的背上移動，騎乘期間會為玩家的攻擊賦予暗屬性)",
+        "evening": true
+    },
+    {
+        "id": "067",
+        "name": "碎岩龜 (地)",
+        "food": 5,
+        "extra": "挖掘3",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/139d49569c1111b273d8d0ca1aa6ec67.JPG",
+        "drop_item": "金屬礦石、優質帕魯油",
+        "skill": "鑽頭粉碎者 (發動後會進入甲殼迴旋狀態，牠會一邊旋轉一邊跟隨玩家並有效率的破壞礦石)"
+    },
+    {
+        "id": "068",
+        "name": "貓蝠怪 (暗)",
+        "food": 5,
+        "extra": " 採集2 挖掘2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/9e8d06cd4429290ea81678919c4fab68.JPG",
+        "drop_item": "皮革、小型帕魯之魂",
+        "skill": "超音波感應 (發動後就能以超音波探測附近的帕魯位置)",
+        "evening": true
+    },
+    {
+        "id": "069",
+        "name": "博愛蜥 (無)",
+        "food": 5,
+        "extra": " 手工2 製藥2 搬運2 挖掘1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8102d2be81aea890861cf97eb2782612.PNG",
+        "drop_item": "蘑菇、蛋糕、可疑果汁、怪異果汁",
+        "skill": "愛心吸取 (與牠並肩作戰時，可為玩家及博愛蜥賦予竊取生命效果，此效果可在施加傷害時吸收一部份傷害並回復HP)",
+        "evening": true
+    },
+    {
+        "id": "070",
+        "name": "融焰娘 (火)",
+        "food": 2,
+        "extra": " 手工1 生火1 搬運1 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/e1e10ee63f9b33b6aa4ddbf936985417.PNG",
+        "drop_item": "噴火器官、優質帕魯油",
+        "skill": "熔岩之淚 (將牠分派到家畜牧場，有機會製造出噴火器官)"
+    },
+    {
+        "id": "071",
+        "name": "烽歌龍 (火+暗)",
+        "food": 6,
+        "extra": " 生火1 搬運3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/fc850c7ab62e6526aa7331dc9e721ad2.JPG",
+        "drop_item": "骨頭、紅寶石、金幣",
+        "skill": "大空襲擊者 (可騎在牠的背上在空中飛行，騎乘期間攻擊敵人的弱點部位能造成更多的傷害)"
+    },
+    {
+        "id": "071B",
+        "name": "霜歌龍 (冰+暗)",
+        "food": 6,
+        "extra": "冷卻2 搬運3",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/83396054d788ef50b515ad01e34d89e2.JPG",
+        "drop_item": "骨頭、結冰器官、藍寶石",
+        "skill": "空襲擊者 (可騎在牠的背上在空中飛行，騎乘期間攻擊敵人的弱點部位能造成更多的傷害)",
+        "evening": true
+    },
+    {
+        "id": "072",
+        "name": "浪刃武士 (火)",
+        "food": 4,
+        "extra": " 手工1 採集1 生火2 搬運2 採伐3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/7aef05bd68cb7111608bba512831d402.PNG",
+        "drop_item": "骨頭、金屬鑄塊",
+        "skill": "紫電一閃 (發動後會以威力極高的居合斬攻擊鎖定的目標敵人)"
+    },
+    {
+        "id": "073",
+        "name": "迅雷鳥 (雷)",
+        "food": 7,
+        "extra": " 搬運3 發電2 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/24ffccc4b0a735a21d3f91f694acf04c.JPG",
+        "drop_item": "發電器官",
+        "skill": "天雷 (可騎在牠的背上在空中飛行，騎乘期間牠會為玩家的攻擊賦予雷屬性)"
+    },
+    {
+        "id": "074",
+        "name": "燧火鳥 (火)",
+        "food": 7,
+        "extra": " 生火3 搬運3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/3f6b89639ce288980a5af7a9036e1797.JPG",
+        "drop_item": "噴火器官",
+        "skill": "烈焰之翼 (可騎在牠的背上在空中飛行，騎乘期間牠會為玩家的攻擊賦予火屬性)"
+    },
+    {
+        "id": "075",
+        "name": "暗巫貓 (暗)",
+        "food": 5,
+        "extra": " 手工2 製藥2 搬運2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/18f89563306c61ec1a78740952dc6712.PNG",
+        "drop_item": "皮革、暗巫喵的體毛、高等技術書",
+        "skill": "魔導書收藏家 (與牠並肩作戰時，若擊倒無屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)",
+        "evening": true
+    },
+    {
+        "id": "076",
+        "name": "焰巫狐 (火)",
+        "food": 5,
+        "extra": " 手工3 生火2 搬運2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/f38a1d8bfc63b0268a3079ff5521ee65.PNG",
+        "drop_item": "噴火器官、高等技術書",
+        "skill": "狐神大人 (與牠並肩作戰時，牠會為玩家的攻擊賦予火屬性)"
+    },
+    {
+        "id": "077",
+        "name": "踏春兔 (草)",
+        "food": 3,
+        "extra": " 手工3 採集3 播種2 採伐2 搬運2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/f427266c1aaece6413f701992099ba7c.PNG",
+        "drop_item": "皮革、骨頭",
+        "skill": "草原飛速之星 (與牠並肩作戰時，玩家的移動速度會有所提升，且牠還會為玩家的攻擊賦予草屬性)"
+    },
+    {
+        "id": "078",
+        "name": "薇莉塔 (草)",
+        "food": 3,
+        "extra": " 製藥3 播種2 手工2 採集2 搬運1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/5588e2f714b977560e340cb07c86c812.PNG",
+        "drop_item": "劣質藥品、番茄種子",
+        "skill": "大地淨化 (與牠並肩作戰時，若擊倒地屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "079",
+        "name": "綢笠蛾 (冰)",
+        "food": 5,
+        "extra": " 製藥2 冷卻2 牧場1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/3b3e44045637400cb7721627986a0447.PNG",
+        "drop_item": "優質的布、結冰器官",
+        "skill": "吐絲者 (發動後會以威力極高的鑽石星辰攻擊鎖定的敵人) 將牠分派到家畜牧場，牠就有機會製造出優質的布"
+    },
+    {
+        "id": "080",
+        "name": "精靈龍 (龍)",
+        "food": 6,
+        "extra": " 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/8984f13151412dc8469a83aacc8aff9d.JPG",
+        "drop_item": "優質帕魯油",
+        "skill": "善良的聖潔之龍 (可騎在牠的背上在空中飛行。 與牠並肩作戰時，若擊倒暗屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "080B",
+        "name": "水靈龍 (龍)",
+        "food": 6,
+        "extra": "澆水3 採伐2",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/0766ce502c697cca5f08c2c012ecfdbf.JPG",
+        "drop_item": "優質帕魯油",
+        "skill": "善良的流水之龍 (可騎在牠的背上在空中飛行。 與牠並肩作戰時，若擊倒火屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "081",
+        "name": "水靈兒 (水)",
+        "food": 1,
+        "extra": " 澆水1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/948d012cda5c671fdea096c82d396749.PNG",
+        "drop_item": "水靈兒的魚肉、帕魯體液",
+        "skill": "灑水 (若牠在隊伍中，水屬性帕魯的攻擊力會有所提升)"
+    },
+    {
+        "id": "081",
+        "name": "火靈兒 (火)",
+        "food": 1,
+        "extra": "生火1",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/256f9a53d0d5f175a91e4b25ffd02599.PNG",
+        "drop_item": "水靈兒的魚肉、噴火器官",
+        "skill": "熔岩潑灑 (若牠在隊伍中，火屬性帕魯的攻擊力會有所提升)"
+    },
+    {
+        "id": "082",
+        "name": "碧海龍 (水+龍)",
+        "food": 6,
+        "extra": " 澆水3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/fd6ca186f1045b1c4f49650dc7214206.JPG",
+        "drop_item": "布",
+        "skill": "水翔之舞 (可騎在牠的背上在水上移動，騎乘期間牠會為玩家的攻擊賦予水屬性)"
+    },
+    {
+        "id": "083",
+        "name": "冰棘獸 (冰)",
+        "food": 7,
+        "extra": " 冷卻3 採伐2 手工1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/addb482c19e690c0b5a222c6fc95c0b4.JPG",
+        "drop_item": "結冰器官",
+        "skill": "獵龍者 (與牠並肩作戰時，若擊倒龍屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "084",
+        "name": "獄焰王 (火)",
+        "food": 7,
+        "extra": " 生火3 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/167c1bb8176a407e50f34b94213fed05.JPG",
+        "drop_item": "噴火器官",
+        "skill": "獄炎獅子 (可騎在牠的背上移動。與牠並肩作戰時，若擊倒草屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "084B",
+        "name": "獄閻王 (火+暗)",
+        "food": 7,
+        "extra": " 生火3 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/790b3521d901fcdc0dd58c8d4b8c2922.JPG",
+        "drop_item": "噴火器官",
+        "skill": "黑炎獅子 (可騎在牠的背上移動。與牠並肩作戰時，若擊倒無屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)",
+        "evening": true
+    },
+    {
+        "id": "085",
+        "name": "佩克龍 (龍+水)",
+        "food": 7,
+        "extra": " 澆水2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/e8d2a0e00cfdcb50a55e9e351616e85e.JPG",
+        "drop_item": "優質帕魯油、紅寶石",
+        "skill": "餓餓飛彈 (可騎在牠的背上移動。騎乘期間牠還能用導彈發射器連續攻擊)"
+    },
+    {
+        "id": "085B",
+        "name": "派克龍 (龍+雷)",
+        "food": 7,
+        "extra": " 發電3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/fa4c85959dcef353320588bda7e5ca24.JPG",
+        "drop_item": "優質帕魯油、發電器官、藍寶石",
+        "skill": "飛彈饗宴 (可騎在牠的背上移動。騎乘期間牠還能用導彈發射器連續攻擊)"
+    },
+    {
+        "id": "086",
+        "name": "連理龍 (草)",
+        "food": 7,
+        "extra": " 播種3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/7146654875279bb51e77880f986668c7.JPG",
+        "drop_item": "連理龍的恐龍肉、番茄種子",
+        "skill": "超載的愛情 (可騎在他的背上移動。若連理龍在隊伍中，牠就會幫忙載運行李，提高玩家的負重上限)"
+    },
+    {
+        "id": "086B",
+        "name": "海誓龍 (草+水)",
+        "food": 7,
+        "extra": " 澆水3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/a9565942e391bceb38e4cf1ef16bd177.JPG",
+        "drop_item": "連理龍的恐龍肉、生菜種子",
+        "skill": "超載的愛情 (可騎在他的背上移動。若連理龍在隊伍中，牠就會幫忙載運行李，提高玩家的負重上限)",
+        "boss": true
+    },
+    {
+        "id": "087",
+        "name": "花麗娜 (草)",
+        "food": 3,
+        "extra": " 播種3 手工2 採集2 製藥2 搬運1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/397b0213f037800ace03e50b21c92973.PNG",
+        "drop_item": "美麗花朵",
+        "skill": "花精靈的祝福 (發動後可通過花朵的治癒能力，來恢復玩家的生命值)"
+    },
+    {
+        "id": "088",
+        "name": "熔岩獸 (火+地)",
+        "food": 5,
+        "extra": " 生火3 挖掘3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/d437a2f91af655b431b6fbf47526efe0.JPG",
+        "drop_item": "噴火器官",
+        "skill": "貪食礦石之獸 (可騎在他的背上移動，騎乘期間破壞礦石的效率會更高)"
+    },
+    {
+        "id": "088B",
+        "name": "寒霜獸 (冰+地)",
+        "food": 5,
+        "extra": " 冷卻3 挖掘3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/43955c763e798f4aa0afc05ceb0f2205.JPG",
+        "drop_item": "結冰器官",
+        "skill": "貪食冰霜之獸 (可騎在他的背上移動，騎乘期間破壞礦石的效率會更高)"
+    },
+    {
+        "id": "089",
+        "name": "君王美露帕 (無)",
+        "food": 7,
+        "extra": " 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/a3d88c8602061ce4abdfae496556a2a6.JPG",
+        "drop_item": "羊毛",
+        "skill": "大力國王 (可騎在牠的背上移動，若君王美露帕在隊伍中，牠就會幫忙載運行李，提高玩家的負重上限)"
+    },
+    {
+        "id": "089B",
+        "name": "冰帝美露帕 (冰)",
+        "food": 7,
+        "extra": " 冷卻3 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/e13c9a0b6e5c4c9c91271ccfea9b2dcb.JPG",
+        "drop_item": "羊毛、結冰器官",
+        "skill": "大力國王 (可騎在牠的背上移動，若君王美露帕在隊伍中，牠就會幫忙載運行李，提高玩家的負重上限)",
+        "boss": true
+    },
+    {
+        "id": "090",
+        "name": "森猛獁 (草)",
+        "food": 8,
+        "extra": " 播種2 採伐2 挖掘2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/a577c9bdc178fe5e58e09cc54270a540.JPG",
+        "drop_item": "優質帕魯油、皮革、森猛獁的巨獸肉",
+        "skill": "蓋亞粉碎者 (可騎在牠的背上移動，騎乘期間破壞樹木和礦石的效率會更高)"
+    },
+    {
+        "id": "090B",
+        "name": "雪猛獁 (冰)",
+        "food": 8,
+        "extra": " 冷卻2 採伐2 挖掘2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/ecd317dff7185de2a3041d248f337526.JPG",
+        "drop_item": "優質帕魯油、皮革、森猛獁的巨獸肉",
+        "skill": "冰霜粉碎者 (可騎在牠的背上移動，騎乘期間破壞樹木和礦石的效率會更高)"
+    },
+    {
+        "id": "091",
+        "name": "白絨雪怪 (冰)",
+        "food": 8,
+        "extra": " 搬運4 採伐3 手工2 冷卻2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/2489041e23c8a1c634e0c1742f992d64.JPG",
+        "drop_item": "結冰器官、美麗花朵",
+        "skill": "雪山巨人 (可騎在牠的背上移動。若白絨雪怪在隊伍中，牠就會幫忙載運行李，提高玩家的負重上限)"
+    },
+    {
+        "id": "091B",
+        "name": "綠苔絨怪 (草)",
+        "food": 8,
+        "extra": "搬運4 採伐3 手工2 播種1",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/cd9952dfd3478875f2543d2f36108630.JPG",
+        "drop_item": "生菜種子、番茄種子、美麗花朵",
+        "skill": "南國巨人 (可騎在牠的背上移動。若綠苔絨怪在隊伍中，牠就會幫忙載運行李，提高玩家的負重上限)"
+    },
+    {
+        "id": "092",
+        "name": "鎧格力斯 (地+草)",
+        "food": 6,
+        "extra": " 採伐3 搬運3 手工1 播種1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/ab90bac2d8ae1dfa253c34bda1c06fcd.JPG",
+        "drop_item": "蜂蜜",
+        "skill": "堅硬盔甲 (與牠並肩作戰時，玩家的防禦力會有所提升，且可減輕火屬性的傷害)"
+    },
+    {
+        "id": "093",
+        "name": "雲海鹿 (無)",
+        "food": 6,
+        "extra": " 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/964e8e3bbf00e13e6f35b76fd4acc4a0.PNG",
+        "drop_item": "皮革、角",
+        "skill": "風雲 (可騎在牠的背上移動，騎乘期間可以進行二段跳)"
+    },
+    {
+        "id": "094",
+        "name": "夜幕魔蝠 (暗)",
+        "food": 5,
+        "extra": " 製藥3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/0bf8b13a0a1c9a76064f90aa5bc72654.PNG",
+        "drop_item": "布、小型帕魯之魂",
+        "skill": "竊取生命 (與牠並肩作戰時，可為玩家及夜幕魔蝠賦予竊取生命效果，此效果可在施加傷害時吸收一部份傷害並回覆HP)",
+        "boss": true
+    },
+    {
+        "id": "095",
+        "name": "天羽龍 (龍)",
+        "food": 4,
+        "extra": " 搬運3 挖掘2 採集2 手工1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/69c238f7ff991ef003ba7a06195a2765.JPG",
+        "drop_item": "優質帕魯油",
+        "skill": "天空龍的慈愛 (可騎在牠的背上在空中飛行，騎乘期間的龍屬性攻擊將得到強化)"
+    },
+    {
+        "id": "096",
+        "name": "焰煌 (火)",
+        "food": 9,
+        "extra": " 挖掘4 生火3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/2c0a29eecf75164af361748e787f2004.JPG",
+        "drop_item": "石炭、噴火器官",
+        "skill": "熔岩凱撒 (可騎在牠的背上移動，騎乘期間的火屬性攻擊將得到強化)"
+    },
+    {
+        "id": "097",
+        "name": "雷冥鳥 (暗)",
+        "food": 8,
+        "extra": " 搬運3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/1be26252babea38276bcc9c4202da085.JPG",
+        "drop_item": "毒腺、中型帕魯之魂",
+        "skill": "冥府之翼 (可騎在牠的背上在空中飛行，騎乘期間牠會為玩家的攻擊賦予暗屬性)",
+        "evening": true
+    },
+    {
+        "id": "098",
+        "name": "魔淵龍 (龍+暗)",
+        "food": 9,
+        "extra": " 挖掘4 手工1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/81d5b1b99c9c1f23633c58e441a2e991.JPG",
+        "drop_item": "帕魯金屬錠、純水晶",
+        "skill": "黑鎧之龍 (可騎在牠的背上在空中飛行，騎乘期間能對礦石造成更大的破壞)"
+    },
+    {
+        "id": "099",
+        "name": "冥鎧蠍 (暗+地)",
+        "food": 7,
+        "extra": " 挖掘3 採伐2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/a7453643b132d8b4dde80bb449a4dc6d.JPG",
+        "drop_item": "石炭、毒腺",
+        "skill": "鋼鐵之蠍 (與牠並肩作戰時，玩家的防禦力會有所提升，若擊倒雷屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "100",
+        "name": "阿努比斯 (地)",
+        "food": 6,
+        "extra": " 手工4 挖掘3 搬運2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/90120df99736ecedfc65d08ff33755f6.PNG",
+        "drop_item": "骨頭、大型帕魯之魂、革新技術書籍",
+        "skill": "沙漠守護神 (與牠並肩作戰時，牠會為玩家的攻擊賦予地屬性) (戰鬥時偶爾會以高速移步迴避攻擊)"
+    },
+    {
+        "id": "101",
+        "name": "覆海龍 (龍+水)",
+        "food": 7,
+        "extra": " 澆水4 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/1e99a344281c687d50b9f46d27956489.JPG",
+        "drop_item": "帕魯體液",
+        "skill": "呼喚風暴的深海龍 (可騎在牠的背上在水中移動，騎乘期間在水上移動不會消耗體力)",
+        "boss": true
+    },
+    {
+        "id": "101B",
+        "name": "騰炎龍 (龍+火)",
+        "food": 7,
+        "extra": " 生火4 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/2f5738b5d0d650c38e1349803bbda49d.JPG",
+        "drop_item": "優質帕魯油、噴火器官",
+        "skill": "呼喚風暴的熔岩龍 (可騎在牠的背上在水中移動，騎乘期間的火屬性攻擊將得到強化)"
+    },
+    {
+        "id": "102",
+        "name": "朱雀 (火)",
+        "food": 8,
+        "extra": " 生火3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/14d6776de5fc06fcf1a3f3872ca78704.JPG",
+        "drop_item": "噴火器官",
+        "skill": "炎之翼 (可騎在牠的背上在空中飛行，騎乘期間的火屬性攻擊將得到強化)"
+    },
+    {
+        "id": "102B",
+        "name": "清雀 (水)",
+        "food": 8,
+        "extra": " 澆水3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/1a3a355a1c419cc7899147a0564e6363.JPG",
+        "drop_item": "帕魯體液",
+        "skill": "水之翼 (可騎在牠的背上在空中飛行，騎乘期間的水屬性攻擊將得到強化)"
+    },
+    {
+        "id": "103",
+        "name": "暴電熊 (雷)",
+        "food": 7,
+        "extra": " 搬運3 發電3 採伐2 手工2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/309143f7738d19ee4cb31c921639bddd.JPG",
+        "drop_item": "皮革、發電器官",
+        "skill": "黃色重型戰車 (可騎在牠的背上移動，騎乘期間牠還能用機關槍連續攻擊)"
+    },
+    {
+        "id": "104",
+        "name": "百合女王 (草)",
+        "food": 6,
+        "extra": " 播種4 手工3 製藥3 採集2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/684aa7fc59d2b6e43f7f2ccd71287caf.JPG",
+        "drop_item": "劣質藥品、美麗花朵、革新技術書籍",
+        "skill": "豐饒女神 (發動後便能通過女王的療癒能力，為玩家大量恢復生命值)"
+    },
+    {
+        "id": "104B",
+        "name": "黑月女王 (暗)",
+        "food": 6,
+        "extra": "手工3 製藥3 採集2",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/ab9713bef80605707c1c1dc77f23ad0d.JPG",
+        "drop_item": "劣質藥品、美麗花朵、革新技術書籍",
+        "skill": "幽光女神 (發動後便能通過女王的療癒能力，為玩家大量恢復生命值)",
+        "boss": true
+    },
+    {
+        "id": "105",
+        "name": "荷魯斯 (火)",
+        "food": 8,
+        "extra": " 生火3 搬運3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/60fde2b8e3a2710fe3c89171842c44b6.JPG",
+        "drop_item": "噴火器官",
+        "skill": "灼熱捕食者 (可騎在牠的背上在空中飛行，與牠並肩作戰時，若擊倒冰屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "106",
+        "name": "波魯杰克斯 (龍+雷)",
+        "food": 7,
+        "extra": " 發電4 搬運3 手工2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/ce46984f2b279cce3aabba816c1bdb6c.JPG",
+        "drop_item": "發電器官",
+        "skill": "兇猛的迅猛龍 (與牠並肩作戰時，若擊倒冰屬性的帕魯，就能從該帕魯身上獲得更多掉落道具)"
+    },
+    {
+        "id": "107",
+        "name": "異構格里芬 (暗)",
+        "food": 8,
+        "extra": " 採集1 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/0f41229e1517f2c6f921a641b9f77727.JPG",
+        "drop_item": "帕魯金屬錠、碳纖維、革新技術書籍",
+        "skill": "基因改造 (可騎在牠的背上在空中飛行，騎乘期間的暗屬性攻擊將得到強化)"
+    },
+    {
+        "id": "108",
+        "name": "聖光騎士 (無)",
+        "food": 9,
+        "extra": " 採伐2 挖掘2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/ac65b96eb8c9962b3834d5f8868e3680.JPG",
+        "drop_item": "帕魯金屬錠、鑽石",
+        "skill": "天翔聖騎士 (可騎在牠的背上移動，騎乘期間可以進行三段跳)",
+        "god": true
+    },
+    {
+        "id": "109",
+        "name": "混沌騎士 (暗)",
+        "food": 9,
+        "extra": " 採伐2 挖掘2 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/70848cdd3908d77542029d55de492996.JPG",
+        "drop_item": "帕魯金屬錠、大型帕魯之魂",
+        "skill": "深淵黑騎士 (可騎在牠的背上移動，騎乘期間可以進行二段跳)",
+        "god": true
+    },
+    {
+        "id": "110",
+        "name": "喚冬獸 (冰)",
+        "food": 7,
+        "extra": " 冷卻4 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/f6726939fb98a3b674112b2632534995.JPG",
+        "drop_item": "結冰器官",
+        "skill": "冰天馬 (可騎在牠的背上在空中飛行，騎乘期間玩家的攻擊會轉變為冰屬性，冰屬性的攻擊會得到強化)",
+        "god": true
+    },
+    {
+        "id": "110B",
+        "name": "喚夜獸 (暗)",
+        "food": 7,
+        "extra": " 採集4 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/0a0a6d24ecc526590445282376669ede.JPG",
+        "drop_item": "?",
+        "skill": "??"
+    },
+    {
+        "id": "111",
+        "name": "空渦龍 (龍)",
+        "food": 9,
+        "extra": " 採集3 ",
+        "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/5bdbe2f3c750496f64a344b479506f32.JPG",
+        "drop_item": "純水晶、聚合物、碳纖維、鑽石",
+        "skill": "地毯式轟炸 (可騎在牠的背上在空中飛行，騎乘期間牠還能用導彈發射器連續攻擊)",
+        "god": true
+    }
+]
