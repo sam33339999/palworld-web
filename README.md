@@ -61,5 +61,9 @@ palTrs.map(palTr => {
 - [全物件、傳點、收集品、洞窟、野王](https://mapgenie.io/palworld/maps/palpagos-islands)
 
 
+## 文件
 
-
+- [【幻獸帕魯】夜晚限定出沒的帕魯位置彙整一覽表](https://pinogamer.com/17151)
+- [《幻兽帕鲁》全帕鲁图鉴一览 帕鲁图鉴大全](https://www.gamersky.com/handbook/202401/1699239.shtml)
+- [幻獸帕魯 (PalWorld) 各帕魯圖鑑與位置一覽 part1](https://www.entertainment14.net/blog/post/110990863-%E5%B9%BB%E7%8D%B8%E5%B8%95%E9%AD%AF-palworld-%E5%90%84%E5%B8%95%E9%AD%AF%E5%9C%96%E9%91%91%E8%88%87%E4%BD%8D%E7%BD%AE%E4%B8%80%E8%A6%BD)
+- [幻獸帕魯 (PalWorld) 各帕魯圖鑑與位置一覽 part2](https://www.entertainment14.net/blog/post/110990875-%E5%B9%BB%E7%8D%B8%E5%B8%95%E9%AD%AF-palworld-%E5%90%84%E5%B8%95%E9%AD%AF%E5%9C%96%E9%91%91%E8%88%87%E4%BD%8D%E7%BD%AE%E4%B8%80%E8%A6%BD-part2)
