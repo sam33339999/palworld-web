@@ -411,7 +411,7 @@
       "id": "032B",
       "img": "https://truth.bahamut.com.tw/s01/202401/forum/71458/aa58915176d372440fac5c11750b6bae.JPG",
       "name": "冰縛靈 (冰)",
-      "food": 0,
+      "food": 2,
       "skill": "寒空鞦韆 (若牠在隊伍中，能召喚牠來代替滑翔傘，滑翔期間牠會將玩家高高舉起)",
       "lifeSkills": [
         { "sk": "手工", "lv": 1 },
