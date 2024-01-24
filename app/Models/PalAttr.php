@@ -19,6 +19,5 @@ class PalAttr extends Model
         'zh_name',
         'number',
         'description',
-        'type',
     ];
 }

@@ -24,6 +24,22 @@ class Pal extends Model
         'description',
         'meta',
         'food',
-        'image',
+        'image1',
+        'image2',
     ];
+
+    public function dropItems()
+    {
+        return $this->hasMany(DropItem::class, 'pal_id', 'id');
+    }
+
+    public function attrs()
+    {
+        return $this->hasMany(PalAttr::class, 'pal_id', 'id');
+    }
+
+    public function skill()
+    {
+        return $this->hasOne(PalSkill::class, 'id', 'skill_id');
+    }
 }

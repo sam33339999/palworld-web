@@ -19,7 +19,8 @@ return new class extends Migration
             $table->text('description')->nullable()->comment('Comment of the Pal');
             $table->jsonb('meta')->nullable()->comment('Meta Data');
             $table->tinyInteger('food')->unsigned()->default(0)->comment('Food');
-            $table->string('image')->nullable()->comment('Image');
+            $table->string('image1')->nullable()->comment('Image');
+            $table->string('image2')->nullable()->comment('Image');
             $table->timestamps();
         });
     }

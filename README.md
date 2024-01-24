@@ -43,6 +43,7 @@ palTrs.map(palTr => {
 
 - [配種配方表集中串 歡迎大家分享](https://forum.gamer.com.tw/C.php?bsn=71458&snA=179)
 - [【情報】配種小整理](https://forum.gamer.com.tw/C.php?bsn=71458&snA=381&tnum=1)
+https://docs.google.com/spreadsheets/d/1nRDuOzA3XDlabLmkQ0387a0NUXmQUxQXFC1bKsg2RnU/edit#gid=0
 
 ```txt
 110B - 喚夜獸 (暗) | 精靈龍+滑水蛇

@@ -16,8 +16,7 @@ return new class extends Migration
             $table->string('en_name')->nullable()->comment('屬性名稱');
             $table->string('zh_name')->nullable()->comment('屬性名稱');
             $table->integer('number')->comment('數值');
-            $table->string('description')->comment('描述');
-            $table->string('type')->comment('屬性類型');
+            $table->text('description')->nullable()->comment('描述');
             $table->timestamps();
         });
     }
