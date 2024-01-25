@@ -14,10 +14,8 @@ class Pal extends Model
 
     protected $table = 'pals';
 
-    protected $keyType = 'string';
-
     protected $fillable = [
-        'id',
+        'pal_id',
         'en_name',
         'zh_name',
         'skill_id',
@@ -28,14 +26,14 @@ class Pal extends Model
         'image2',
     ];
 
-    public function dropItems()
+    public function drops()
     {
-        return $this->hasMany(DropItem::class, 'pal_id', 'id');
+        return $this->belongsToMany(DropItem::class);
     }
 
     public function attrs()
     {
-        return $this->hasMany(PalAttr::class, 'pal_id', 'id');
+        return $this->belongsToMany(Attr::class);
     }
 
     public function skill()

@@ -12,7 +12,8 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('pals', function (Blueprint $table) {
-            $table->string('id')->primary()->comment('Primary Identifier');
+            $table->id();
+            $table->string('pal_id')->index()->comment('Pal Identifier');
             $table->string('en_name')->nullable()->comment('Name of the Pal English');
             $table->string('zh_name')->nullable()->comment('Name of the Pal Chinese');
             $table->bigInteger('skill_id')->nullable()->comment('Skill of the Pal');

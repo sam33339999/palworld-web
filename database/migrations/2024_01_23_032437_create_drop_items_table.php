@@ -19,6 +19,13 @@ return new class extends Migration
             $table->text('comment')->nullable()->comment('備註');
             $table->timestamps();
         });
+
+        Schema::create('drop_item_pal', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('drop_item_id')->constrained('drop_items');
+            $table->foreignId('pal_id')->constrained('pals');
+            $table->timestamps();
+        });
     }
 
     /**

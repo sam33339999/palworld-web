@@ -2,7 +2,7 @@
 
 namespace App\Console\Commands;
 
-use App\Models\PalAttr;
+use App\Models\Attr as PalAttr;
 use Illuminate\Console\Command;
 
 class DefaultDataFiller extends Command

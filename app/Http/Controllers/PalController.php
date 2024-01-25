@@ -10,9 +10,18 @@ class PalController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        return Pal::all();
+        // $palBuilder = Pal::with(['attrs', 'drops']);
+
+        // $palBuilder->when(request('name'), function ($query) {
+        //     return $query->where(function ($q) {
+        //         $q->where('zh_name', 'like', '%' . request('name') . '%')
+        //             ->orWhere('en_name', 'like', '%' . request('name') . '%');
+        //     });
+        // });
+        // $pals = $palBuilder->orderBy('id', 'asc')->get();
+        return view('welcome');
     }
 
     /**

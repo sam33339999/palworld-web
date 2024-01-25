@@ -11,12 +11,19 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('pal_attrs', function (Blueprint $table) {
+        Schema::create('attrs', function (Blueprint $table) {
             $table->id();
             $table->string('en_name')->nullable()->comment('屬性名稱');
             $table->string('zh_name')->nullable()->comment('屬性名稱');
             $table->integer('number')->comment('數值');
             $table->text('description')->nullable()->comment('描述');
+            $table->timestamps();
+        });
+
+        Schema::create('attr_pal', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('pal_id')->comment('帕魯ID');
+            $table->foreignId('attr_id')->comment('屬性ID');
             $table->timestamps();
         });
     }
@@ -26,6 +33,7 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('pal_attrs');
+        Schema::dropIfExists('attrs');
+        Schema::dropIfExists('attr_pal');
     }
 };
